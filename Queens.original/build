@@ -1,0 +1,1 @@
+ghc -O --make Main.hs

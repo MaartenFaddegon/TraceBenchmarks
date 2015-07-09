@@ -1,0 +1,1 @@
+time ./Main < reptile.stdin > /dev/null
